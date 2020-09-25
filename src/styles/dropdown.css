@@ -1,0 +1,14 @@
+.dropdown-container {
+  border-right: 2px solid #eeeeee;
+  padding-right: 10px;
+  height: 700px;
+  overflow-y: auto;
+}
+
+.question {
+  padding: 20px 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500px;
+}

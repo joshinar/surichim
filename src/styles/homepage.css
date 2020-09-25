@@ -1,0 +1,34 @@
+.home-container {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 5fr 0.5fr;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-header {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.btn-submit {
+  background-color: #21b8de;
+  color: #ffffff;
+  font-weight: 500;
+}
+.header-alert {
+  display: none;
+}
+
+.content-body {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  height: 100%;
+  padding: 10px;
+  border-top: 2px solid #eeeeee;
+}

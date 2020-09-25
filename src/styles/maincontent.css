@@ -1,0 +1,12 @@
+button {
+  padding: 10px 20px !important;
+  margin-left: 5px;
+}
+.button-container {
+  margin: 5px;
+  border-bottom: 2px solid #eeeeee;
+}
+
+.tab-content {
+  display: none;
+}
